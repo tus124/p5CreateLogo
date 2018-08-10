@@ -1,0 +1,9 @@
+{
+  "name": "p5test",
+  "version": "0.0.0",
+  "description": "p5test",
+  "main": "server.js",
+  "author": {
+    "name": "tvirdee"
+  }
+}
