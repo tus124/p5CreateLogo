@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "p5test", "p5test\p5test.njsproj", "{0E2B5A04-4C6D-487C-90F8-28B703AAF16A}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "p5CreateLogo", "p5CreateLogo\p5CreateLogo.njsproj", "{0E2B5A04-4C6D-487C-90F8-28B703AAF16A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
